@@ -48,7 +48,7 @@ A continuación se muestra una lista de ellos:
 
 Existen dos maneras de crear enlaces: 
 
-* ** Enlace en línea: ** 
+* **Enlace en línea:** 
 
 		[Título del link](url)
 
@@ -60,7 +60,7 @@ Resultado:
 
 [Enlace](https://github.com/sole27/Markdown)
 
-* ** Por referencias: **
+* **Por referencias:**
 
 		[Link][id]    [id]: http://ejemplo.com "Título"
 
@@ -115,7 +115,7 @@ Resultado:
 	2. Línea 2
 	3. Línea 3
 
-* ** LISTAS DESORDENADAS:**
+* **LISTAS DESORDENADAS:**
 		Lista de puntos (desordenada)
 		* Línea 1
 		* Línea 2
@@ -127,7 +127,7 @@ Resultado:
 	* Línea 2
 	* Línea 3
 
-* ** LISTAS ANIDADAS: **
+* **LISTAS ANIDADAS:**
 Pueden mezclarse los tipos de listas y anidarlas.
 
 		1. Lista ordenada
@@ -146,7 +146,7 @@ Resultado:
    	 2. Segunda línea de la lista ordenada anidada
    	 
 
-* ** LISTAS DE TAREAS:**
+* **LISTAS DE TAREAS:**
 
 		- [x] Tarea completa
 
