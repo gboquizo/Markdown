@@ -87,7 +87,7 @@ Por último, existe otra forma mucho más sencilla en la que se crean enlaces au
 
 				
 
-     								<URL>
+     					<URL>
 
 Resultado:
 
