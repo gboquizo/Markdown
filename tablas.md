@@ -4,7 +4,5 @@ Las tablas se crean de una manera tan sencilla como delimitando las columnas con
 
 
 |Encabezado1|encabezado2|
-
 |-----------|-----------|
-
 |contenido1 |contenido2 |
