@@ -1,7 +1,7 @@
-### Notas Pie de Pagina
+### Notas Pie
 
-Esto es un texto con nota al pie [^1]
+nota al pie [^a]
 
 sadsdf
 
-[^1]:skdjfhslkdf
+[^a]: skdjfhslkdf
