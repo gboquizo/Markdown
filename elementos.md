@@ -1,4 +1,4 @@
-## Elementos y sintaxis
+## <a name="Inicio"> Elementos y sintaxis </a>
 
 Markdown dispone de una amplia variedad de elementos. 
 
@@ -7,38 +7,31 @@ A continuación se muestra una lista de ellos:
 - <a href="#Enlaces">Enlaces</a>
 
 - <a href="#Listas">Listas</a>
+- [Imágenes](imagenes.md)
 
-- Imágenes.
+- [Citas en bloque](citas.md)
 
-- Elementos en línea
+- [Párrafos y saltos de línea](parrafos.md)
 
-- Cabeceras.
+- [Tablas](tablas.md)
 
-- Citas en bloque.
+- [Vídeos](video.md)
 
-- Párrafos y saltos de línea.
+- [Resaltado (negrita, cursiva, etc)](Resaltado.md)
 
-- Tablas.
+- [Código con resaltado de sintaxis](Resaltado_Codigo.md)
 
-- Vídeos.
+- [Referencias](Referencias.md)
 
-- Escribir código.
+- [Emojis](Emojis.md)
 
-- Resaltado de sintaxis
+- [Notas a pie de página](PiePagina.md)
 
-- Referencias.
+- [Abreviaturas](abreviaturas.md)
 
-- Emojis.
+- [Lineas Horizontales](lineasHorizontales.md)
 
-- Notas a pie de página
-
-- Abreviaturas
-
-- Indentificadores de cabecera
-
-- Lineas Horizontales
-
-- Escapar caracteres
+- [Escapar caracteres](caracteresEscape.md)
 
 
 
@@ -158,7 +151,8 @@ Resultado:
 
 - [ ] Tarea incompleta 
 
-* * *
+
+<a href="#Inicio">Volver al inicio </a>
 
 
 
