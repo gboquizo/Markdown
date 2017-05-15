@@ -25,7 +25,7 @@ A continuación se muestra una lista de ellos:
 
 - [Emojis](Emojis.md)
 
-- [Notas a pie de página](PiePagina.md)
+- [Notas a pie de página](piePagina.md)
 
 - [Abreviaturas](abreviaturas.md)
 
