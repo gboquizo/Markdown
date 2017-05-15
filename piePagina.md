@@ -1,7 +1,7 @@
 ### Notas Pie
 
-nota al pie [^a]
+nota al pie [^google]
 
 sadsdf
 
-[^a]: skdjfhslkdf
+[^google]: http://www.google.es
