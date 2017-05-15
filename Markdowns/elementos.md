@@ -1,4 +1,4 @@
-##Elementos y sintaxis
+## Elementos y sintaxis
 
 Markdown dispone de una amplia variedad de elementos. 
 
@@ -48,7 +48,7 @@ Existen dos maneras de crear enlaces:
 
 Ejemplo:
 
-![enlaceEnLínea](images/enlaceLinea.png)
+![enlaceEnLínea](https://megaweb27.files.wordpress.com/2017/05/enlacelinea.png)
 
 Resultado:
 
@@ -64,7 +64,7 @@ Resultado:
 
  Ejemplo:
 
- ![Enlace](images/enlaces.png)
+ ![Enlace](https://megaweb27.files.wordpress.com/2017/05/enlaces.png)
 
  Resultado:
 
