@@ -1,4 +1,4 @@
-## Elementos y sintaxis
+##Elementos y sintaxis
 
 Markdown dispone de una amplia variedad de elementos. 
 
@@ -8,37 +8,31 @@ A continuación se muestra una lista de ellos:
 
 - <a href="#Listas">Listas</a>
 
-- Imágenes.
+- [Imágenes](imagenes.md)
 
-- Elementos en línea
+- [Citas en bloque](citas.md)
 
-- Cabeceras.
+- [Párrafos y saltos de línea](parrafos.md)
 
-- Citas en bloque.
+- [Tablas](tablas.md)
 
-- Párrafos y saltos de línea.
+- [Vídeos](video.md)
 
-- Tablas.
+- [Escribir código](Resaltado_Codigo.md)
 
-- Vídeos.
+- [Resaltado](Resaltado.md)
 
-- Escribir código.
+- [Referencias](Referencias.md)
 
-- Resaltado de sintaxis
+- [Emojis](Emojis.md)
 
-- Referencias.
+- [Notas a pie de página](piePagina.md)
 
-- Emojis.
+- [Abreviaturas](abreviaturas.md)
 
-- Notas a pie de página
+- [Lineas Horizontales](lineasHorizontales.md)
 
-- Abreviaturas
-
-- Indentificadores de cabecera
-
-- Lineas Horizontales
-
-- Escapar caracteres
+- [Escapar caracteres](caracteresEscape.md)
 
 
 
@@ -48,26 +42,29 @@ A continuación se muestra una lista de ellos:
 
 Existen dos maneras de crear enlaces: 
 
-* **Enlace en línea:** 
+1. Enlace en línea:
 
 		[Título del link](url)
 
 Ejemplo:
 
-![enlaceEnLínea](https://megaweb27.files.wordpress.com/2017/05/enlacelinea.png)
+![enlaceEnLínea](images/enlaceLinea.png)
 
 Resultado:
 
 [Enlace](https://github.com/sole27/Markdown)
 
-* **Por referencias:**
 
-		[Link][id]    [id]: http://ejemplo.com "Título"
+
+2. Por referencias:
+
+		[Link][id]                                                                    [id]: http://ejemplo.com "Título"
+
 
 
  Ejemplo:
 
- ![Enlace](https://megaweb27.files.wordpress.com/2017/05/enlaces.png)
+ ![Enlace](images/enlaces.png)
 
  Resultado:
 
@@ -87,7 +84,7 @@ Por último, existe otra forma mucho más sencilla en la que se crean enlaces au
 
 				
 
-     					<URL>
+     								<URL>
 
 Resultado:
 
@@ -101,7 +98,7 @@ https://github.com/sole27/Markdown
 
 Existen varios tipos de listas:
 
-- **LISTAS ORDENADAS:**
+** 1. LISTAS ORDENADAS:**:
 
 		Lista numerada (ordenada)
 
@@ -115,19 +112,19 @@ Resultado:
 	2. Línea 2
 	3. Línea 3
 
-* **LISTAS DESORDENADAS:**
+** 2. LISTAS DESORDENADAS:**
 		Lista de puntos (desordenada)
 		* Línea 1
 		* Línea 2
 		* Línea 3
 		
         NOTA: Pueden utilizarse "*", "-" o "+".
-	Resultado:
-	* Línea 1
-	* Línea 2
-	* Línea 3
+Resultado:
+* Línea 1
+* Línea 2
+* Línea 3
 
-* **LISTAS ANIDADAS:**
+** 3. LISTAS ANIDADAS: **:
 Pueden mezclarse los tipos de listas y anidarlas.
 
 		1. Lista ordenada
@@ -146,7 +143,7 @@ Resultado:
    	 2. Segunda línea de la lista ordenada anidada
    	 
 
-* **LISTAS DE TAREAS:**
+** 4. LISTAS DE TAREAS:**
 
 		- [x] Tarea completa
 
