@@ -104,6 +104,7 @@ Existen varios tipos de listas:
 
 		3. Línea 3
 Resultado:
+
 	1. Línea 1
 	2. Línea 2
 	3. Línea 3
