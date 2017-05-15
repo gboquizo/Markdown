@@ -135,10 +135,10 @@ Resultado:
 
 1. Lista ordenada
 2.  Línea 2 de la lista ordenada
-	1. Lista ordenada anidada 
-		* Lista desordenada anidada
-       	 	* Seguna línea de la lista desordenada
-	2. Segunda línea de la lista ordenada anidada
+1. Lista ordenada anidada 
+	* Lista desordenada anidada
+       	* Seguna línea de la lista desordenada
+2. Segunda línea de la lista ordenada anidada
    	 
 
 * **LISTAS DE TAREAS:**
