@@ -1,6 +1,7 @@
 ### Citas
 
-Las citas se generar utilizando el car·cter mayor que, al comienzo del bloque de texto.
+Las citas se generar utilizando el car√°cter mayor que, al comienzo del bloque de texto.
 
+     > Qu√© pena que nadie nos fusile al alba. Joaqu√≠n G√≥mez
 
-> QuÈ pena que nadie nos fusile al alba. JoaquÌn GÛmez
+> Qu√© pena que nadie nos fusile al alba. Joaqu√≠n G√≥mez
