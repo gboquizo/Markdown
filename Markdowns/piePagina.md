@@ -1,4 +1,5 @@
 ### Notas Pie de Pagina
+Esto es una nota de pie de pagina [google]
 
-[^1]: Esto es una nota al pie de pagina.
-[^2]: Esto otra.
+[google] : www.google.es
+
