@@ -1,6 +1,6 @@
 ### Abreviaturas
-    *[HTML]: Hyper Text Markup Language
     
-El HTML es un metalenguaje guay
-    
+   La especificación HTML es mantenida por el W3C.
+
 *[HTML]: Hyper Text Markup Language
+ *[W3C]:  World Wide Web Consortium
