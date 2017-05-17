@@ -2,7 +2,7 @@
 
 Existen varios tipos de listas:
 
-** 1. LISTAS ORDENADAS:**:
+**1. LISTAS ORDENADAS:**:
 
 		Lista numerada (ordenada)
 
@@ -17,7 +17,7 @@ Resultado:
 2. Línea 2
 3. Línea 3
 
-** 2. LISTAS DESORDENADAS:**
+**2. LISTAS DESORDENADAS:**
 		Lista de puntos (desordenada)
 		* Línea 1
 		* Línea 2
@@ -29,7 +29,7 @@ Resultado:
 * Línea 2
 * Línea 3
 
-** 3. LISTAS ANIDADAS: **:
+**3. LISTAS ANIDADAS:**:
 Pueden mezclarse los tipos de listas y anidarlas.
 
 		1. Lista ordenada
@@ -47,7 +47,7 @@ Resultado:
 		* Seguna línea de la lista desordenada
 	2. Segunda línea de la lista ordenada anidada
    	 
-** 4. LISTAS DE TAREAS:**
+**4. LISTAS DE TAREAS:**
 
 		- [x] Tarea completa
 
