@@ -2,7 +2,7 @@
 
 Existen dos maneras de crear enlaces: 
 
-1. Enlace en línea:
+* **ENLACE EN LÍNEA:**
 
 		[Título del link](url)
 
@@ -15,10 +15,9 @@ Resultado:
 [Enlace](https://github.com/sole27/Markdown)
 
 
+* **POR REFERENCIAS:**
 
-2. Por referencias:
-
-		[Link][id]                                                                    [id]: http://ejemplo.com "Título"
+		[Link][id]     [id]: http://ejemplo.com "Título"
 
 
 
@@ -38,13 +37,26 @@ Resultado:
 
  [3]: https://github.com/sole27/Markdown
 
+* **ENLACES INTERNOS:**
 
+Se pueden crear enlaces a distintas partes del contenido, como por ejemplo a cabeceras.
+Se hace colocando un id en la parte del contenido a la que queremos enlazar, por ejemplo, a una cabecera:
+
+
+			### Cabecera con id {#cabecera1}
+			[Enlace a esa cabecera](#cabecera1)
+            
+            
+###### Esto es una cabecera con un Id {#cabecera1}
+[Enlace a esa cabecera](#cabecera1)
+
+* **ENLACES AUTOMÁTICOS:**
 
 Por último, existe otra forma mucho más sencilla en la que se crean enlaces automáticos para direcciones URL:
 
 				
 
-     								<URL>
+     					<URL>
 
 Resultado:
 
