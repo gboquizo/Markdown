@@ -1,6 +1,6 @@
 # Referencias a otros repositorios
 
-Para hacer una refenrencia a un *repositorio* basta con utilizar la URL del mismo
+Para hacer una refenrencia a un *repositorio* basta con utilizar la URL del mismo, utilizando ["Id_Enlace"] seguido de (URL)
 como por ejemplo: [README inicial](https://github.com/sole27/Markdown/blob/master/README.md)
 
 Igualmente se puede referenciar un *commit* de la misma manera que a un repositorio, es decir,
