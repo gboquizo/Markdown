@@ -1,6 +1,6 @@
 <h1> Enlaces </h1>
 
-Existen dos maneras de crear enlaces: 
+Existen varias maneras de crear enlaces: 
 
 * **ENLACE EN LÍNEA:**
 
